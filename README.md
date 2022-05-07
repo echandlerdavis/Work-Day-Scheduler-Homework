@@ -11,7 +11,7 @@
 **How the application is organized**
 The Day Scheduler is organized in the following files:
 
-![Files](
+![Files](./Assets/images/Screen%20Shot%202022-05-07%20at%2012.59.54%20PM.png)
 
 **Step-by-Step on how to run the application**
 * Add an event to the text box for a given hour
@@ -20,12 +20,12 @@ The Day Scheduler is organized in the following files:
 
 **What the application looks like**
 
-![Image of Homepage](
-    
+![Image of Homepage](./Assets/images/Screen%20Shot%202022-05-07%20at%201.00.39%20PM.png)
+
 **Link to deployed version of Chandler's Portfolio**
 
-Website: 
-GitHub Repository: 
+Website: https://echandlerdavis.github.io/Work-Day-Scheduler-Homework/
+GitHub Repository: https://github.com/echandlerdavis/Work-Day-Scheduler-Homework
 
 **Technologies Used** 
 
